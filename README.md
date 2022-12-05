@@ -1,1 +1,1 @@
-my shelll redirection I/O readme
+my shell basic readme
